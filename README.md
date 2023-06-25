@@ -1,3 +1,3 @@
 # DEMO
 
-Quick discriptions
+Quick discriptions for Github!
